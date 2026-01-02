@@ -10,7 +10,7 @@ What this project does 🧠
 
 
 Main Features 🚀
-• 6 industry-wise company tables  
+• industry-wise company tables  
 • Search by company name, location, or industry  
 • Category filter  
 • Light & Dark mode  
