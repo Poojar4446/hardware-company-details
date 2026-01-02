@@ -22,14 +22,14 @@ Technologies Used 🛠️
 • CSS  
 • JavaScript  
 
+### Screenshots 📸
 
-Screenshots 📸
-(screenshots/powerplant.png)
-(screenshots/powerplant2.png)
-(screenshots/powerplant4.png)
-(screenshots/powerplant5.png)
-(screenshots/shortcut.png)
-(screenshots/shortcut2.png)
+![powerplant.png](screenshots/powerplant.png)
+![Power Plant Details](screenshots/powerplant2.png)
+![Power Plant Graph](screenshots/powerplant4.png)
+![Power Plant Table](screenshots/powerplant5.png)
+![Shortcut Icon](screenshots/shortcuts.png)
+![Shortcut Icon 2](screenshots/shortcut2.png)
 
 
 Who should use this? 🎯
@@ -42,10 +42,5 @@ Project Purpose 💡
 Most core electrical jobs are not posted on job portals.
 This project focuses on systematic searching to find companies
 where real electrical work is happening.
-
-Live Demo 🌐
-(Add your deployed link here – GitHub Pages / Netlify)
-
---------------------------------------------------
 
 Referrals help, but systematic searching works better.
