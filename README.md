@@ -1,7 +1,8 @@
 Electrical & Electronics Engineering Companies – Karnataka ⚡
 A simple and responsive web project to help EEE students and freshers find
 core electrical companies and hidden job opportunities across Karnataka.
-
+Live Project:
+https://poojar4446.github.io/hardware-company-details/
 
 What this project does 🧠
 • Lists EEE companies category-wise  
